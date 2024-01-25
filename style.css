@@ -39,12 +39,19 @@ img{
     height: auto;
 }
 
+#item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+
+
 button {
+    background-color: #4CAF50; 
+    color: white;
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
+    border-radius: 5px;
+    cursor: grid;
+}
