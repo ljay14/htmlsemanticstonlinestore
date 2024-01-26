@@ -10,17 +10,17 @@
     padding: irem;
 }
 
-#list{
+#list {
     display: inline;
-    margin-right: 90px ;
+    margin-right: 90px;
     font-weight: bold;
     text-align: center;
     padding: 8px;
     border-radius: 15px;
     border: 2px solid;
     background-color: white;
-    
 }
+
 
 a{
     text-decoration: none;
