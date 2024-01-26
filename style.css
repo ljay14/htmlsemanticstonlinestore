@@ -55,3 +55,21 @@ button {
     border-radius: 5px;
     cursor: grid;
 }
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 2px solid black;
+    text-align: left;
+    padding: 2px;
+}
+
+th{
+    text-align: center;
+    border: 2px solid;
+    border-collapse: collapse;
+}
